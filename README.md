@@ -1,4 +1,4 @@
-# 💗 Projeto Romântico - Nicoli
+# 💗 Projeto Romântico
 
 Um site romântico desenvolvido com HTML, CSS e JavaScript, criado com o objetivo de proporcionar uma experiência emocional, leve e visualmente agradável.
 
@@ -8,8 +8,7 @@ O projeto foi pensado para ser simples, intuitivo e ao mesmo tempo marcante, com
 
 ## ✨ Funcionalidades
 
-* 💗 Página inicial com destaque para o nome "Nicoli"
-* ✨ Palavras carinhosas aparecendo dinamicamente
+* 💗 Página inicial com palavras carinhosas aparecendo dinamicamente
 * 📖 Seção "Nossa história" com narrativa emocional em blocos
 * 🎁 Página surpresa com:
 
@@ -26,17 +25,6 @@ O projeto foi pensado para ser simples, intuitivo e ao mesmo tempo marcante, com
 * HTML5
 * CSS3 (Flexbox, animações, efeitos visuais)
 * JavaScript (DOM, interações, setTimeout)
-
----
-
-## 📂 Estrutura do projeto
-
-📁 projeto-romantico
-└── index.html
-
-> Todo o projeto está em um único arquivo para facilitar execução e compartilhamento.
-
----
 
 ## 🚀 Como executar
 
